@@ -1,0 +1,13 @@
+[project]
+name = "predictive-grading-model"
+version = "0.1.0"
+description = "Customer Channel Scoring and Predictive Grading Model"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "jupyter>=1.1.1",
+    "pandas>=3.0.2",
+    "pyodbc>=5.3.0",
+    "python-dotenv>=1.2.2",
+]
